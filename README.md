@@ -10,5 +10,6 @@ I'm Plugin Cracker / Leaker and Java Learner
 
 <a href="https://www.instagram.com/dxddytonio.uwu/" target="_blank" rel="noreferrer"> <img src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-19/203019087_3969530746500786_7930596639916235962_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=1&_nc_ohc=Q3c2BZ4oQsgAX_8dNn0&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9TpW9_0b0GwHcFOPfPdqX8yaY7HHNfzJPXAXy7ywExtA&oe=622B3282&_nc_sid=7bff83java/java-original.svg" alt="instagram" width="40" height="40"/> </a>
 Instagram: dxddytonio.uwu
+
 <img src="https://discord.c99.nl/widget/theme-3/849842601268084736.png" align="center"/>
 
