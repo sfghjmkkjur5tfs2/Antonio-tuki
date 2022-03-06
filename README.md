@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Antonio-tuki/Antonio-tuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! My name is Antonio and i have 15 years old
+  
 
-Here are some ideas to get you started:
+I'm Plugin Cracker / Leaker and Java Learner
+- 🔭 I’m currently working on Combo.land
+- 👯 I’m looking to collaborate on Astro Operations
+- 🌱 I’m currently learning: Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="16" height="16"/> </a>
+- Contact: Antonio.#0001
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://discord.c99.nl/widget/theme-3/849842601268084736.png" align="center"/>
+
