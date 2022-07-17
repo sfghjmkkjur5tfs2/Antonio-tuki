@@ -1,5 +1,5 @@
 
-## Hi there! My name is Antonio and i have 15 years old
+## Hi there! My name is Antonio and I'm 15 years old
   
 
 I'm Plugin Cracker / Leaker and Java Learner
