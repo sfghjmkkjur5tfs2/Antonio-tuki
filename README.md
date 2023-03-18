@@ -3,7 +3,6 @@
   
 
 I'm Plugin Cracker / Leaker and Java Learner
-- 🔭 I’m currently staff on Battle.rip https://battle.rip
 - 🌱 I’m currently learning: Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="16" height="16"/> </a>
 - Contact: Antonio.#6751
 
